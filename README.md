@@ -27,7 +27,8 @@ pip install flask-mysqldb
 
 Step-3: Open MySQL workbench. 
 Step-4: Write the following code. The above SQL statement will create our database geeklogin with the table accounts. 
-Step-5: Execute the query.
+Step-5: Execute the query.  ![dbcode](https://github.com/MayankTomar21/Login-Project-Using-Python-Flask-and-MySQL/assets/81947542/9866286d-3a85-4d2b-823f-862cfe4415c7)
+
 
 (3) Creating Project 
 
