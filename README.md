@@ -52,5 +52,19 @@ Step-3: The output web page will be displayed.
 
 Step-1: If you are new user, go to sign up page and fill the details. 
 Step-2: After registration, go to login page. Enter your username and password and sign in. 
-Step-3: If your login is successful, you will be moved to index page and your name will be displayed. Output: Login page:
 
+Step-3: If your login is successful, you will be moved to index page and your name will be displayed. Output: Login page:  ![login2](https://github.com/MayankTomar21/Login-Project-Using-Python-Flask-and-MySQL/assets/81947542/ab59de7a-312c-487a-9c80-a6ab18a9ab3b)
+
+Registration page:  ![register](https://github.com/MayankTomar21/Login-Project-Using-Python-Flask-and-MySQL/assets/81947542/d781062b-e649-4b9c-b46e-b5b389a0fa29)
+
+If registration successful:  ![register_scuccess](https://github.com/MayankTomar21/Login-Project-Using-Python-Flask-and-MySQL/assets/81947542/e53ada4e-c18e-49ba-8051-ae65f96bcd25)
+
+Before registration, Database table: ![beforereg](https://github.com/MayankTomar21/Login-Project-Using-Python-Flask-and-MySQL/assets/81947542/22be5965-d83b-4484-9ac1-127874385952)
+
+
+After registration, Database table:  ![afterreg](https://github.com/MayankTomar21/Login-Project-Using-Python-Flask-and-MySQL/assets/81947542/a69ed502-295f-4783-a400-4bfb4d0ae05f)
+
+If login successful, Indexpage is displayed:  ![index6](https://github.com/MayankTomar21/Login-Project-Using-Python-Flask-and-MySQL/assets/81947542/8e5eb8ac-5f05-4a20-9a54-814380e2edba)
+
+
+If Login fails:   ![login_fail](https://github.com/MayankTomar21/Login-Project-Using-Python-Flask-and-MySQL/assets/81947542/732262b3-cce9-40be-acb4-e6a2ef854c26)
