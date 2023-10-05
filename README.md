@@ -40,7 +40,7 @@ Step-6: Open ‘register.html’ file and write the code given below. In ‘regi
 Step-7: Open ‘index.html’ file and write the code given below. This page is displayed when login is successful and username is also displayed. The logout functionality is also included in this page. When user logs out, it moves to fresh login page again. 
 Step-8: Create the folder ‘static’. create the file ‘style.css’ inside the ‘static’ folder and paste the given CSS code. 
 
-Step-9: The project structure will look like this.![structure4](https://github.com/MayankTomar21/Login-Project-Using-Python-Flask-and-MySQL/assets/81947542/9f7aa1f3-602a-4dbe-9782-a35bb2bb518f)
+Step-9: The project structure will look like this.   ![structure4](https://github.com/MayankTomar21/Login-Project-Using-Python-Flask-and-MySQL/assets/81947542/9f7aa1f3-602a-4dbe-9782-a35bb2bb518f)
 
 (4) Run the Project 
 
